@@ -1,4 +1,4 @@
-echo "4.Write a program that reads 5 random 2 digit values then prints sum and average"
+echo "Write a program that reads 5 random 2 digit values then prints sum and average"
 sumOfTwoDigit=0
 function twoDigitValues(){
 for i in 1 2 3 4 5
